@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "axe-core": "^4.4.1",
-    "cypress": "^9.5.1",
+    "cypress": "^13.7.3",
     "cypress-axe": "^0.14.0",
     "pyright": "^1.1.234",
     "sass": "^1.49.8",
