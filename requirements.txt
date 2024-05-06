@@ -61,7 +61,7 @@ itsdangerous==2.1.2
     # via
     #   flask
     #   flask-wtf
-jinja2==3.1.2
+jinja2==3.1.4
     # via
     #   -r requirements.in
     #   flask
@@ -96,8 +96,8 @@ pyjwt==2.8.0
     # via -r requirements.in
 pyparsing==3.0.7
     # via
-    #  -r requirements.in
-    #  packaging
+    #   -r requirements.in
+    #   packaging
 pysolr==3.9.0
     # via -r requirements.in
 python-dateutil==2.8.2
